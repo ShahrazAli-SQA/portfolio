@@ -26,12 +26,12 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'Ashiq Ali',
-  email: 'ashiq.liaqat465@gmail.com',
+  name: 'Shahraz Ali',
+  email: 'sheraz.mansha512@gmail.com',
 };
 
 export const seoData = {
-  title: 'Ashiq Ali | Mern Stack Developer',
+  title: 'Shahraz Ali | SQA Engineer',
   description:
     'As a Mern Stack developer, I have extensive experience building modern web applications using MongoDB, Express.js, React.js, Nest js, and Node.js. I have a passion for using these technologies to create intuitive and performant user interfaces, and I am confident in my ability to deliver high-quality, scalable web applications.',
   author: author.name,
@@ -39,13 +39,13 @@ export const seoData = {
     'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
   url: 'https://vatsalsinghkv.vercel.app/',
   keywords: [
-    'Ashiq',
-    'Ashiq Ali',
-    'ashiq.liaqat465@gmail.com',
-    'Mern Stack',
+    'Shahraz',
+    'Shahraz Ali',
+    'sheraz.mansha512@gmail.com',
+    'SQA Engineer',
     'Portfolio',
-    'Ashiq Portfolio ',
-    'Mern Stack Portfolio',
+    'Shahraz Portfolio ',
+    'SQA Portfolio',
   ],
 };
 
@@ -75,7 +75,7 @@ export const navbarSection: NavbarSectionType = {
 
 export const heroSection: HeroSectionType = {
   subtitle: 'Hi, my name is',
-  title: 'Ashiq Ali.',
+  title: 'Shahraz Ali.',
   tagline: 'I craft visually stunning web interfaces using the MERN stack.',
   description:
     'As a Mern Stack developer, I have extensive experience building modern web applications using MongoDB, Express.js, React.js, Nest js, and Node.js. I have a passion for using these technologies to create intuitive and performant user interfaces, and I am confident in my ability to deliver high-quality, scalable web applications.',

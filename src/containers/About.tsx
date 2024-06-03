@@ -19,12 +19,11 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Ashiq Ali, an artist as well as crazy full stack
-            web developer who wants to explore every tech stack.
+            Hi, my name is Shahraz Ali, a passionate SQA Engineer committed to top-notch software quality.
           </p>
-         
+
           <p>
-          I am an experienced full-stack MERN developer with a strong foundation in problem-solving, system design, and a passion for creating innovative solutions. My expertise lies in building robust web applications and services using the MERN stack, alongside proficiency in NestJS for backend development and databases including MongoDB and SQL, all integrated seamlessly with Prisma ORM.
+            I am an experienced Software Quality Assurance Engineer with a strong foundation in both manual and automation testing. My expertise lies in ensuring software products meet the highest standards of quality and functionality. I excel in creating and executing comprehensive test plans, utilizing industry-leading tools, while ensuring seamless user experiences through careful attention to detail and rigorous testing methodologies.
           </p>
 
           {list && (

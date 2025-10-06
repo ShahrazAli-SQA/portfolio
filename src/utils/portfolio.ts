@@ -113,7 +113,7 @@ export const aboutSection: AboutSectionType = {
       'CI/CD',
     ],
   },
-  img: '/shahraz.png',
+  img: '/Shahraz.jpeg',
 };
 
 // * Skills Section

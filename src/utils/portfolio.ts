@@ -33,11 +33,8 @@ export const author = {
 export const seoData = {
   title: 'Shahraz Ali | SQA Engineer',
   description:
-    'As a Mern Stack developer, I have extensive experience building modern web applications using MongoDB, Express.js, React.js, Nest js, and Node.js. I have a passion for using these technologies to create intuitive and performant user interfaces, and I am confident in my ability to deliver high-quality, scalable web applications.',
+  `I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with proven experience in both manual and automation testing. I am dedicated to ensuring software products meet the highest standards of quality, functionality, and user experience.`,
   author: author.name,
-  image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
   keywords: [
     'Shahraz',
     'Shahraz Ali',
@@ -79,9 +76,7 @@ export const heroSection: HeroSectionType = {
   tagline: 'I ensure software excellence through rigorous testing and quality assurance.',
   description:
     "I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with proven experience in both manual and automation testing. I am dedicated to ensuring software products meet the highest standards of quality, functionality, and user experience.",
-  // description:
-  //   "I'm a passionate Full Stack web developer having an experience of web  applications with React.js, Next.js and Blockchain development on Ethereum, Solidity and Web3.js.",
-  specialText: 'Currently available for a job & freelance',
+    specialText: 'Currently available for a job & freelance',
   // either button or simple text (information)
   cta: {
     title: 'see my resume',

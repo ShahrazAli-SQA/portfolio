@@ -34,6 +34,8 @@ export const seoData = {
   title: 'Shahraz Ali | SQA Engineer',
   description:
   `I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with proven experience in both manual and automation testing. I am dedicated to ensuring software products meet the highest standards of quality, functionality, and user experience.`,
+  image:'',
+  url: 'https://shahraz.vercel.app/',
   author: author.name,
   keywords: [
     'Shahraz',

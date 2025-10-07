@@ -238,6 +238,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://dmarcreport.com/',
       img: '/dmarc.png',
       year: 2024,
+      tags: "",
       // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
@@ -246,6 +247,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://almariding.com/',
       img: '/alma.png',
       year: 2024,
+      tags: "",
       // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
@@ -254,6 +256,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://daoproptech.com/',
       img: '/daoproptech.png',
       year: 2023,
+      tags: "",
       // tags: [
       //   'React Js',
       //   'Nest Js',
@@ -269,6 +272,7 @@ export const projectsSection: ProjectsSectionType = {
       url: '',
       img: '/',
       year: 2023,
+      tags: "",
       // tags: [
       //   'React Js',
       //   'Nest Js',
@@ -284,6 +288,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://scan123.com/',
       img: '/scan123.png',
       year: 2022,
+      tags: "",
       // tags: [
       //   'React Js',
       //   'Nest Js',

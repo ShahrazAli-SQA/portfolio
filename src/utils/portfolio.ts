@@ -33,11 +33,8 @@ export const author = {
 export const seoData = {
   title: 'Shahraz Ali | SQA Engineer',
   description:
-    'As a Mern Stack developer, I have extensive experience building modern web applications using MongoDB, Express.js, React.js, Nest js, and Node.js. I have a passion for using these technologies to create intuitive and performant user interfaces, and I am confident in my ability to deliver high-quality, scalable web applications.',
+  `I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with proven experience in both manual and automation testing. I am dedicated to ensuring software products meet the highest standards of quality, functionality, and user experience.`,
   author: author.name,
-  image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
   keywords: [
     'Shahraz',
     'Shahraz Ali',
@@ -79,9 +76,7 @@ export const heroSection: HeroSectionType = {
   tagline: 'I ensure software excellence through rigorous testing and quality assurance.',
   description:
     "I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with proven experience in both manual and automation testing. I am dedicated to ensuring software products meet the highest standards of quality, functionality, and user experience.",
-  // description:
-  //   "I'm a passionate Full Stack web developer having an experience of web  applications with React.js, Next.js and Blockchain development on Ethereum, Solidity and Web3.js.",
-  specialText: 'Currently available for a job & freelance',
+    specialText: 'Currently available for a job & freelance',
   // either button or simple text (information)
   cta: {
     title: 'see my resume',
@@ -243,7 +238,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://dmarcreport.com/',
       img: '/dmarc.png',
       year: 2024,
-      tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
       id: getId(),
@@ -251,7 +246,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://almariding.com/',
       img: '/alma.png',
       year: 2024,
-      tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
       id: getId(),
@@ -259,14 +254,14 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://daoproptech.com/',
       img: '/daoproptech.png',
       year: 2023,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
     {
       id: getId(),
@@ -274,14 +269,14 @@ export const projectsSection: ProjectsSectionType = {
       url: '',
       img: '/',
       year: 2023,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
     {
       id: getId(),
@@ -289,14 +284,14 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://scan123.com/',
       img: '/scan123.png',
       year: 2022,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
   ],
 };

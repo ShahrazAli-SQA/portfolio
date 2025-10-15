@@ -300,7 +300,14 @@ export const projectsSection: ProjectsSectionType = {
 
 // * Contact Section
 
-export const contactSection: ContactSectionType = {
+export default Contact;
+// ✅ Ensure author is defined and exported
+export const author = {
+  email: 'sheraz.mansha512@gmail.com', // <-- put your real email here
+};
+
+// ✅ Keep your contactSection as it is
+export const contactSection = {
   title: 'get in touch',
   subtitle: "what's next",
   paragraphs: [

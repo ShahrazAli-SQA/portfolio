@@ -267,7 +267,7 @@ export const projectsSection: ProjectsSectionType = {
       tags: [
         'React Js',
         'Nest Js',
-        'Wordpress'
+        'Wordpress',
         'AI',
         'MongoDB',
         'Node Js',

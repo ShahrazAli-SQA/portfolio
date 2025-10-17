@@ -240,7 +240,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://dmarcreport.com/',
       img: '/dmarc.png',
       year: 2024,
-      tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
       id: getId(),
@@ -248,7 +248,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://almariding.com/',
       img: '/alma.png',
       year: 2024,
-      tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
       id: getId(),
@@ -256,14 +256,14 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://daoproptech.com/',
       img: '/daoproptech.png',
       year: 2023,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
     {
       id: getId(),
@@ -271,14 +271,14 @@ export const projectsSection: ProjectsSectionType = {
       url: '',
       img: '/',
       year: 2023,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
     {
       id: getId(),
@@ -286,21 +286,21 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://scan123.com/',
       img: '/scan123.png',
       year: 2022,
-      tags: [
-        'React Js',
-        'Nest Js',
-        'WEB3.0',
-        'MongoDB',
-        'Node Js',
-        'BlockChain',
-      ],
+      // tags: [
+      //   'React Js',
+      //   'Nest Js',
+      //   'WEB3.0',
+      //   'MongoDB',
+      //   'Node Js',
+      //   'BlockChain',
+      // ],
     },
   ],
 };
 
 // * Contact Section
 
-export default Contact;
+// export default Contact;
 // ✅ Ensure author is defined and exported
 
 // ✅ Keep your contactSection as it is

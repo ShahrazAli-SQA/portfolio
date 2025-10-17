@@ -28,3 +28,4 @@ const Contact = () => {
     </Wrapper>
   );
 };
+export default Contact;

@@ -236,11 +236,19 @@ export const projectsSection: ProjectsSectionType = {
   projects: [
     {
       id: getId(),
+      name: 'Paismo',
+      url: 'https://paismo.com/',
+      img: '/paismo.png',
+      year: 2025,
+      tags: ['React Js', 'React Native'],
+    },
+    {
+      id: getId(),
       name: 'DMARC REPORT',
       url: 'https://dmarcreport.com/',
       img: '/dmarc.png',
       year: 2024,
-      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      tags: ['React Js', 'ROR', 'Postgress', 'Zoho Billing'],
     },
     {
       id: getId(),
@@ -248,7 +256,7 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://almariding.com/',
       img: '/alma.png',
       year: 2024,
-      // tags: ['React Js', 'Nest Js', 'AI', 'MongoDB', 'Node Js', 'Stripe'],
+      tags: ['React Js', 'MongoDB', 'Node Js', 'Stripe'],
     },
     {
       id: getId(),
@@ -256,29 +264,25 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://daoproptech.com/',
       img: '/daoproptech.png',
       year: 2023,
-      // tags: [
-      //   'React Js',
-      //   'Nest Js',
-      //   'WEB3.0',
-      //   'MongoDB',
-      //   'Node Js',
-      //   'BlockChain',
-      // ],
+      tags: [
+        'React Js',
+        'Nest Js',
+        'Wordpress'
+        'AI',
+        'MongoDB',
+        'Node Js',
+        'BlockChain',
+      ],
     },
     {
       id: getId(),
       name: 'MiPro',
-      url: '',
+      url: 'https://play.google.com/store/apps/details?id=com.motion.mipro&pcampaignid=web_share',
       img: '/',
       year: 2023,
-      // tags: [
-      //   'React Js',
-      //   'Nest Js',
-      //   'WEB3.0',
-      //   'MongoDB',
-      //   'Node Js',
-      //   'BlockChain',
-      // ],
+      tags: [
+        'React Native',
+      ],
     },
     {
       id: getId(),
@@ -286,14 +290,11 @@ export const projectsSection: ProjectsSectionType = {
       url: 'https://scan123.com/',
       img: '/scan123.png',
       year: 2022,
-      // tags: [
-      //   'React Js',
-      //   'Nest Js',
-      //   'WEB3.0',
-      //   'MongoDB',
-      //   'Node Js',
-      //   'BlockChain',
-      // ],
+      tags: [
+        'Wordpress',
+        'Node js',
+        'ROR',
+      ],
     },
   ],
 };
